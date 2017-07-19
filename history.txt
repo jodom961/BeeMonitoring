@@ -1,0 +1,66 @@
+    1  ntpdate -s time.mmm.com
+    2  ntp -s time.mmm.com
+    3  ntp
+    4  ntpdate
+    5  timectl
+    6  sudo apt install ntp
+    7  ntp -s time.mmm.com
+    8  ntpdate -s time.mmm.com
+    9  sudo ntpdate -s time.mmm.com
+   10  sudo ntpdate -s ntp.ubuntu.com
+   11  ntp -H
+   12  ntp --h
+   13  ntp -h
+   14  sudo apt-get install ntp
+   15  sudo ntpdate pool.ntp.org
+   16  ntp
+   17  sudo apt-get upgrade
+   18  sudo apt-get update
+   19  sudo reboot
+   20  sudo ntpdate pool.ntp.org
+   21  sudo ntpdate -s time.mmm.com
+   22  sudo ntpdate time.mmm.com
+   23  ntpq 
+   24  sudo ntpd -q -g
+   25  sudo ntpd
+   26  sudo ntpd pool.ntp.org
+   27  sudo etc/init.d/ntp stop
+   28  sudo ntpd pool.ntp.org
+   29  sudo reboot
+   30  sudo wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
+   31  sudo sh installWittyPi.sh 
+   32  sudo reboot
+   33  sudo ntpd pool.ntp.org
+   34  sudo ntpdate time.mmm.com
+   35  sudo reboot 
+   36  sudo shutdown
+   37  sudo npm install moment
+   38  sudo apt update
+   39  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+   40  sudo apt-get install nodejs
+   41  node -b
+   42  node -v
+   43  sudo npm install noble
+   44  bluetoothd -v
+   45  sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev
+   46  sudo npm install noble
+   47  sudo reboot
+   48  npm install noble
+   49  sudo ifconfig
+   50  sudo raspi-config 
+   51  ls
+   52  sudo node readtemphumidity.js 
+   53  ls
+   54  sudo node app.js
+   55  nano app.js 
+   56  sudo npm install google-spreadsheet
+   57  npm init
+   58  sudo npm install google-spreadsheet
+   59  sudo node app.js
+   60  ls
+   61  sudo node app.js
+   62  sudo npm install moment
+   63  sudo node app.js
+   64  nano app.js 
+   65  sudo node app.js
+   66  history >> history.txt

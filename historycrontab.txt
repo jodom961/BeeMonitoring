@@ -1,0 +1,111 @@
+    1  ntpdate -s time.mmm.com
+    2  ntp -s time.mmm.com
+    3  ntp
+    4  ntpdate
+    5  timectl
+    6  sudo apt install ntp
+    7  ntp -s time.mmm.com
+    8  ntpdate -s time.mmm.com
+    9  sudo ntpdate -s time.mmm.com
+   10  sudo ntpdate -s ntp.ubuntu.com
+   11  ntp -H
+   12  ntp --h
+   13  ntp -h
+   14  sudo apt-get install ntp
+   15  sudo ntpdate pool.ntp.org
+   16  ntp
+   17  sudo apt-get upgrade
+   18  sudo apt-get update
+   19  sudo reboot
+   20  sudo ntpdate pool.ntp.org
+   21  sudo ntpdate -s time.mmm.com
+   22  sudo ntpdate time.mmm.com
+   23  ntpq 
+   24  sudo ntpd -q -g
+   25  sudo ntpd
+   26  sudo ntpd pool.ntp.org
+   27  sudo etc/init.d/ntp stop
+   28  sudo ntpd pool.ntp.org
+   29  sudo reboot
+   30  sudo wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
+   31  sudo sh installWittyPi.sh 
+   32  sudo reboot
+   33  sudo ntpd pool.ntp.org
+   34  sudo ntpdate time.mmm.com
+   35  sudo reboot 
+   36  sudo shutdown
+   37  sudo npm install moment
+   38  sudo apt update
+   39  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+   40  sudo apt-get install nodejs
+   41  node -b
+   42  node -v
+   43  sudo npm install noble
+   44  bluetoothd -v
+   45  sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev
+   46  sudo npm install noble
+   47  sudo reboot
+   48  npm install noble
+   49  sudo ifconfig
+   50  sudo raspi-config 
+   51  ls
+   52  sudo node readtemphumidity.js 
+   53  ls
+   54  sudo node app.js
+   55  nano app.js 
+   56  sudo npm install google-spreadsheet
+   57  npm init
+   58  sudo npm install google-spreadsheet
+   59  sudo node app.js
+   60  ls
+   61  sudo node app.js
+   62  sudo npm install moment
+   63  sudo node app.js
+   64  nano app.js 
+   65  sudo node app.js
+   66  history >> history.txt
+   67  ls
+   68  nano history.txt
+   69  sudo apt-get install libcap2-bin
+   70  sudo setcap cap_net_raw+eip $(eval readlink -f 'which node')
+   71  npm config get prefix
+   72  mkdir ~/.npm-global
+   73  npm config set prefix '~/.npm-global'
+   74  ~/.profile
+   75  nano .profile
+   76  source ~/.profile
+   77  npm install -g jshint
+   78  node app.js
+   79  sudo reboot
+   80  node app.js
+   81  sudo ln -s /usr/bin/nodejs /usr/bin/node
+   82  npm config get prefix
+   83  nano app.js
+   84  sudo node app.js
+   85  sudo chown -R $(whoami) ~/.npm
+   86  node app.js
+   87  sudo chown -
+   88  sudo chown -R $USER /usr/local/lib/node_modules
+   89  sudo npm install reinstall -g
+   90  npm config set prefix ~/npm
+   91  export PATH="$PATH:$HOME/npm/bin"
+   92  node app.js
+   93  ls
+   94  node readtemphumidity.js 
+   95  sudo apt-get install libcap2-bin
+   96  sudo setcap cap_net_raw+eip $(eval readlink -f `which node`)
+   97  node readtemphumidity.js 
+   98  node app.js
+   99  history >> history2.txt
+  100  ls
+  101  which node
+  102  sudo crontab -e
+  103  ls
+  104  cd ~/pi
+  105  ls
+  106  which node
+  107  sudo crontab -e
+  108  sudo reboot 
+  109  which node
+  110  pwd
+  111  history >> historycrontab.txt
